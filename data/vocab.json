@@ -43,6 +43,24 @@
         "rom": "JI-GEUM",
         "en": "now",
         "tense": "present"
+      },
+      {
+        "kr": "아침에",
+        "rom": "A-CHIM-E",
+        "en": "in the morning",
+        "tense": "present"
+      },
+      {
+        "kr": "저녁에",
+        "rom": "JEO-NYEOG-E",
+        "en": "in the evening",
+        "tense": "present"
+      },
+      {
+        "kr": "가끔",
+        "rom": "GA-KKEUM",
+        "en": "sometimes",
+        "tense": "present"
       }
     ],
     "places": [
@@ -125,6 +143,19 @@
         }
       },
       {
+        "kr": "회사",
+        "rom": "HOE-SA",
+        "en": "company/workplace",
+        "formE": {
+          "kr": "회사에",
+          "rom": "HOE-SA-E"
+        },
+        "formEseo": {
+          "kr": "회사에서",
+          "rom": "HOE-SA-E-SEO"
+        }
+      },
+      {
         "kr": "한국",
         "rom": "HAN-GUK",
         "en": "Korea",
@@ -180,6 +211,12 @@
         "rom": "WA-IN",
         "en": "wine",
         "category": "drink"
+      },
+      {
+        "kr": "요거트",
+        "rom": "YO-GEO-TEU",
+        "en": "yogurt",
+        "category": "food"
       },
       {
         "kr": "선물",
@@ -979,6 +1016,16 @@
             "kr": "같이",
             "rom": "GA-CHI",
             "en": "together"
+          },
+          {
+            "kr": "가끔",
+            "rom": "GA-KKEUM",
+            "en": "sometimes"
+          },
+          {
+            "kr": "하고",
+            "rom": "HA-GO",
+            "en": "and / with"
           }
         ]
       },
@@ -1029,6 +1076,16 @@
             "kr": "날씨",
             "rom": "nal-ssi",
             "en": "weather"
+          },
+          {
+            "kr": "한글",
+            "rom": "han-geul",
+            "en": "Korean letters/alphabet"
+          },
+          {
+            "kr": "한국어",
+            "rom": "han-gug-eo",
+            "en": "Korean language"
           }
         ]
       }
