@@ -373,6 +373,132 @@
         "rom": "ten-teu",
         "en": "tent",
         "category": "general"
+      },
+      {
+        "kr": "토요일",
+        "rom": "TO-YO-IL",
+        "en": "Saturday",
+        "category": "general"
+      },
+      {
+        "kr": "일요일",
+        "rom": "IL-YO-IL",
+        "en": "Sunday",
+        "category": "general"
+      },
+      {
+        "kr": "날씨",
+        "rom": "NAL-SSI",
+        "en": "weather",
+        "category": "general"
+      },
+      {
+        "kr": "산",
+        "rom": "SAN",
+        "en": "mountain",
+        "category": "general"
+      },
+      {
+        "kr": "친구",
+        "rom": "CHIN-GU",
+        "en": "friend",
+        "category": "general"
+      },
+      {
+        "kr": "점심",
+        "rom": "JEOM-SIM",
+        "en": "lunch, lunchtime",
+        "category": "general"
+      },
+      {
+        "kr": "식당",
+        "rom": "SIK-DANG",
+        "en": "restaurant",
+        "category": "general"
+      },
+      {
+        "kr": "생수",
+        "rom": "SAENG-SU",
+        "en": "mineral water, bottled water",
+        "category": "general"
+      },
+      {
+        "kr": "광천수",
+        "rom": "GWANG-CHEON-SU",
+        "en": "mineral water (from spring)",
+        "category": "general"
+      },
+      {
+        "kr": "해산물",
+        "rom": "HAE-SAN-MUL",
+        "en": "seafood",
+        "category": "general"
+      },
+      {
+        "kr": "불고기",
+        "rom": "BUL-GO-GI",
+        "en": "bulgogi (marinated beef)",
+        "category": "general"
+      },
+      {
+        "kr": "소고기",
+        "rom": "SO-GO-GI",
+        "en": "beef",
+        "category": "general"
+      },
+      {
+        "kr": "돼지고기",
+        "rom": "DWAE-JI-GO-GI",
+        "en": "pork",
+        "category": "general"
+      },
+      {
+        "kr": "오후",
+        "rom": "O-HU",
+        "en": "afternoon, PM",
+        "category": "general"
+      },
+      {
+        "kr": "저녁",
+        "rom": "JEO-NYEOK",
+        "en": "evening, dinner",
+        "category": "general"
+      },
+      {
+        "kr": "단어",
+        "rom": "DAN-EO",
+        "en": "word, vocabulary",
+        "category": "general"
+      },
+      {
+        "kr": "새 단어",
+        "rom": "SAE DAN-EO",
+        "en": "new words",
+        "category": "general"
+      },
+      {
+        "kr": "캠핑",
+        "rom": "KAEM-PING",
+        "en": "camping",
+        "category": "general"
+      },
+      {
+        "kr": "도서관",
+        "rom": "DO-SEO-GWAN",
+        "en": "library",
+        "category": "general"
+      },
+      {
+        "kr": "안",
+        "rom": "AN",
+        "en": "inside (location)",
+        "category": "general"
+      },
+      {
+        "kr": "안에",
+        "rom": "AN-E",
+        "en": "inside",
+        "category": "general"
       }
     ],
     "verbs": [
@@ -525,6 +651,36 @@
         "future": "줄 거예요",
         "futureRom": "JUL GGEO-YE-YO",
         "futureEn": "will give"
+      },
+      {
+        "id": "swida",
+        "en": "rest",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "쉬었어요",
+        "pastRom": "SWI-EO-SSEO-YO",
+        "pastEn": "rested",
+        "present": "쉬어요",
+        "presentRom": "SWI-EO-YO",
+        "presentEn": "rest",
+        "future": "쉴 거예요",
+        "futureRom": "SWIL GGEO-YE-YO",
+        "futureEn": "will rest"
+      },
+      {
+        "id": "geotda",
+        "en": "walk",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "걸었어요",
+        "pastRom": "GEO-REO-SSEO-YO",
+        "pastEn": "walked",
+        "present": "걸어요",
+        "presentRom": "GEO-REO-YO",
+        "presentEn": "walk",
+        "future": "걸을 거예요",
+        "futureRom": "GEO-REUL GGEO-YE-YO",
+        "futureEn": "will walk"
       },
       {
         "id": "swida",
@@ -739,6 +895,126 @@
         "rom": "ten-teu",
         "en": "Tent",
         "category": "general"
+      },
+      {
+        "kr": "토요일",
+        "rom": "TO-YO-IL",
+        "en": "Saturday",
+        "category": "general"
+      },
+      {
+        "kr": "일요일",
+        "rom": "IL-YO-IL",
+        "en": "Sunday",
+        "category": "general"
+      },
+      {
+        "kr": "산",
+        "rom": "SAN",
+        "en": "Mountain",
+        "category": "general"
+      },
+      {
+        "kr": "친구",
+        "rom": "CHIN-GU",
+        "en": "Friend",
+        "category": "general"
+      },
+      {
+        "kr": "점심",
+        "rom": "JEOM-SIM",
+        "en": "Lunch, lunchtime",
+        "category": "general"
+      },
+      {
+        "kr": "식당",
+        "rom": "SIK-DANG",
+        "en": "Restaurant",
+        "category": "general"
+      },
+      {
+        "kr": "생수",
+        "rom": "SAENG-SU",
+        "en": "Mineral water, bottled water",
+        "category": "general"
+      },
+      {
+        "kr": "광천수",
+        "rom": "GWANG-CHEON-SU",
+        "en": "Mineral water (from spring)",
+        "category": "general"
+      },
+      {
+        "kr": "해산물",
+        "rom": "HAE-SAN-MUL",
+        "en": "Seafood",
+        "category": "general"
+      },
+      {
+        "kr": "불고기",
+        "rom": "BUL-GO-GI",
+        "en": "Bulgogi (marinated beef)",
+        "category": "general"
+      },
+      {
+        "kr": "소고기",
+        "rom": "SO-GO-GI",
+        "en": "Beef",
+        "category": "general"
+      },
+      {
+        "kr": "돼지고기",
+        "rom": "DWAE-JI-GO-GI",
+        "en": "Pork",
+        "category": "general"
+      },
+      {
+        "kr": "오후",
+        "rom": "O-HU",
+        "en": "Afternoon, pm",
+        "category": "general"
+      },
+      {
+        "kr": "저녁",
+        "rom": "JEO-NYEOK",
+        "en": "Evening, dinner",
+        "category": "general"
+      },
+      {
+        "kr": "단어",
+        "rom": "DAN-EO",
+        "en": "Word, vocabulary",
+        "category": "general"
+      },
+      {
+        "kr": "새 단어",
+        "rom": "SAE DAN-EO",
+        "en": "New words",
+        "category": "general"
+      },
+      {
+        "kr": "캠핑",
+        "rom": "KAEM-PING",
+        "en": "Camping",
+        "category": "general"
+      },
+      {
+        "kr": "도서관",
+        "rom": "DO-SEO-GWAN",
+        "en": "Library",
+        "category": "general"
+      },
+      {
+        "kr": "안",
+        "rom": "AN",
+        "en": "Inside (location)",
+        "category": "general"
+      },
+      {
+        "kr": "안에",
+        "rom": "AN-E",
+        "en": "Inside",
+        "category": "general"
       }
     ],
     "adjectives": [
@@ -841,6 +1117,26 @@
           "drink",
           "weather",
           "activity"
+        ]
+      },
+      {
+        "id": "to_be_good",
+        "kr": "좋다",
+        "rom": "JO-TA",
+        "en": "to be good",
+        "compatibleSubjects": [
+          "food",
+          "drink"
+        ]
+      },
+      {
+        "id": "to_be_hungry",
+        "kr": "배고프다",
+        "rom": "BAE-GO-PEU-DA",
+        "en": "to be hungry",
+        "compatibleSubjects": [
+          "food",
+          "drink"
         ]
       }
     ],
@@ -1086,6 +1382,36 @@
             "kr": "한국어",
             "rom": "han-gug-eo",
             "en": "Korean language"
+          },
+          {
+            "kr": "많이",
+            "rom": "MAN-I",
+            "en": "a lot, much"
+          },
+          {
+            "kr": "열심히",
+            "rom": "YEOL-SIM-HI",
+            "en": "diligently, hard"
+          },
+          {
+            "kr": "안",
+            "rom": "AN",
+            "en": "not (negation)"
+          }
+        ]
+      },
+      {
+        "name": "Verbs to Review",
+        "cards": [
+          {
+            "kr": "연습하다",
+            "rom": "YEON-SEUP-HA-DA",
+            "en": "to practice"
+          },
+          {
+            "kr": "수영하다",
+            "rom": "SU-YEONG-HA-DA",
+            "en": "to swim"
           }
         ]
       }
