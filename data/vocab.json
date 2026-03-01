@@ -499,6 +499,54 @@
         "rom": "AN-E",
         "en": "inside",
         "category": "general"
+      },
+      {
+        "kr": "축구",
+        "rom": "CHUK-KU",
+        "en": "soccer",
+        "category": "general"
+      },
+      {
+        "kr": "농구",
+        "rom": "NONG-KU",
+        "en": "basketball",
+        "category": "general"
+      },
+      {
+        "kr": "배드민턴",
+        "rom": "BAE-DEU-MIN-TEON",
+        "en": "badminton",
+        "category": "general"
+      },
+      {
+        "kr": "취미",
+        "rom": "CHWI-MI",
+        "en": "hobby",
+        "category": "general"
+      },
+      {
+        "kr": "그림",
+        "rom": "GEU-RIM",
+        "en": "drawing, picture, painting",
+        "category": "general"
+      },
+      {
+        "kr": "잠",
+        "rom": "JAM",
+        "en": "sleep (noun)",
+        "category": "general"
+      },
+      {
+        "kr": "분",
+        "rom": "BUN",
+        "en": "minute(s)",
+        "category": "general"
+      },
+      {
+        "kr": "여름",
+        "rom": "YEO-REUM",
+        "en": "summer",
+        "category": "general"
       }
     ],
     "verbs": [
@@ -711,6 +759,89 @@
         "future": "걸을 거예요",
         "futureRom": "GEO-REUL GGEO-YE-YO",
         "futureEn": "will walk"
+      },
+      {
+        "id": "deutda",
+        "en": "listen",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "past": "들었어요",
+        "pastRom": "DEU-REO-SSEO-YO",
+        "pastEn": "listened",
+        "present": "들어요",
+        "presentRom": "DEU-REO-YO",
+        "presentEn": "listen",
+        "future": "들을 거예요",
+        "futureRom": "DEU-REUL GGEO-YE-YO",
+        "futureEn": "will listen"
+      },
+      {
+        "id": "ilkda",
+        "en": "read",
+        "objectTypes": [
+          "thing"
+        ],
+        "placeParticle": "eseo",
+        "past": "읽었어요",
+        "pastRom": "IL-GEO-SSEO-YO",
+        "pastEn": "read",
+        "present": "읽어요",
+        "presentRom": "IL-GEO-YO",
+        "presentEn": "read",
+        "future": "읽을 거예요",
+        "futureRom": "IL-GEUL GGEO-YE-YO",
+        "futureEn": "will read"
+      },
+      {
+        "id": "jada",
+        "en": "sleep",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "past": "잤어요",
+        "pastRom": "JA-SSEO-YO",
+        "pastEn": "slept",
+        "present": "자요",
+        "presentRom": "JA-YO",
+        "presentEn": "sleep",
+        "future": "잘 거예요",
+        "futureRom": "JAL GGEO-YE-YO",
+        "futureEn": "will sleep"
+      },
+      {
+        "id": "yorihada",
+        "en": "cook",
+        "objectTypes": [
+          "food"
+        ],
+        "placeParticle": "eseo",
+        "past": "요리했어요",
+        "pastRom": "YO-RI-HAE-SSEO-YO",
+        "pastEn": "cooked",
+        "present": "요리해요",
+        "presentRom": "YO-RI-HAE-YO",
+        "presentEn": "cook",
+        "future": "요리할 거예요",
+        "futureRom": "YO-RI-HAL GGEO-YE-YO",
+        "futureEn": "will cook"
+      },
+      {
+        "id": "mannada",
+        "en": "meet",
+        "objectTypes": [
+          "person"
+        ],
+        "placeParticle": "eseo",
+        "past": "만났어요",
+        "pastRom": "MAN-NA-SSEO-YO",
+        "pastEn": "met",
+        "present": "만나요",
+        "presentRom": "MAN-NA-YO",
+        "presentEn": "meet",
+        "future": "만날 거예요",
+        "futureRom": "MAN-NAL GGEO-YE-YO",
+        "futureEn": "will meet"
       }
     ]
   },
@@ -1014,6 +1145,54 @@
         "kr": "안에",
         "rom": "AN-E",
         "en": "Inside",
+        "category": "general"
+      },
+      {
+        "kr": "축구",
+        "rom": "CHUK-KU",
+        "en": "Soccer",
+        "category": "general"
+      },
+      {
+        "kr": "농구",
+        "rom": "NONG-KU",
+        "en": "Basketball",
+        "category": "general"
+      },
+      {
+        "kr": "배드민턴",
+        "rom": "BAE-DEU-MIN-TEON",
+        "en": "Badminton",
+        "category": "general"
+      },
+      {
+        "kr": "취미",
+        "rom": "CHWI-MI",
+        "en": "Hobby",
+        "category": "general"
+      },
+      {
+        "kr": "그림",
+        "rom": "GEU-RIM",
+        "en": "Drawing, picture, painting",
+        "category": "general"
+      },
+      {
+        "kr": "잠",
+        "rom": "JAM",
+        "en": "Sleep (noun)",
+        "category": "general"
+      },
+      {
+        "kr": "분",
+        "rom": "BUN",
+        "en": "Minute(s)",
+        "category": "general"
+      },
+      {
+        "kr": "여름",
+        "rom": "YEO-REUM",
+        "en": "Summer",
         "category": "general"
       }
     ],
@@ -1397,6 +1576,56 @@
             "kr": "안",
             "rom": "AN",
             "en": "not (negation)"
+          },
+          {
+            "kr": "할 줄 알아요",
+            "rom": "HAL JUL A-RA-YO",
+            "en": "I know how to do"
+          },
+          {
+            "kr": "할 줄 몰라요",
+            "rom": "HAL JUL MOL-LA-YO",
+            "en": "I don't know how to do"
+          },
+          {
+            "kr": "아직",
+            "rom": "A-JIK",
+            "en": "not yet / still"
+          },
+          {
+            "kr": "동안",
+            "rom": "DONG-AN",
+            "en": "for (duration), during"
+          },
+          {
+            "kr": "자주",
+            "rom": "JA-JU",
+            "en": "often"
+          },
+          {
+            "kr": "항상",
+            "rom": "HANG-SANG",
+            "en": "always"
+          },
+          {
+            "kr": "제",
+            "rom": "JE",
+            "en": "my (contracted form of 저의)"
+          },
+          {
+            "kr": "저는 ~는 것을 좋아해요",
+            "rom": "JEO-NEUN ~NEUN GEOT-EUL JO-A-HAE-YO",
+            "en": "I like doing ~"
+          },
+          {
+            "kr": "아직 안 했어요",
+            "rom": "A-JIK AN HAE-SSEO-YO",
+            "en": "haven't done it yet (but will)"
+          },
+          {
+            "kr": "아직 못 해요",
+            "rom": "A-JIK MOT HAE-YO",
+            "en": "can't do it yet (but trying)"
           }
         ]
       },
@@ -1412,6 +1641,31 @@
             "kr": "수영하다",
             "rom": "SU-YEONG-HA-DA",
             "en": "to swim"
+          },
+          {
+            "kr": "치다",
+            "rom": "CHI-DA",
+            "en": "to hit/strike (sports)"
+          },
+          {
+            "kr": "달리다",
+            "rom": "DAL-LI-DA",
+            "en": "to run"
+          },
+          {
+            "kr": "등산하다",
+            "rom": "DEUNG-SAN-HA-DA",
+            "en": "to hike (mountain)"
+          },
+          {
+            "kr": "그리다",
+            "rom": "GEU-RI-DA",
+            "en": "to draw"
+          },
+          {
+            "kr": "캠핑하다",
+            "rom": "KAEM-PING-HA-DA",
+            "en": "to camp"
           }
         ]
       }
